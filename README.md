@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhangigoel23, an engineering student.
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning javascript and react.
+- 🌱 I’m currently learning javascript and reactjs.
 - 📫 How to reach me https://www.linkedin.com/in/shubhangi-goel-224540232
 
 <!---
